@@ -50,6 +50,9 @@ blockquote {
     font: italic bold 20px Lato;
 }
 
+.desc {
+ font: 20px Lato;   
+}
 .title {
   font: italic bold 30px Lato;   
 }
