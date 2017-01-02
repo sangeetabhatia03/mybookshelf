@@ -1,0 +1,55 @@
+.container {
+    display: table;
+    height: 100%;
+    width: 100%;
+    border-spacing: 1px;
+}
+
+.sidebar {
+    display: table-cell;
+    width: 35%;
+    height: 80%;
+    position: fixed;
+    overflow-y: scroll;
+    top: 10;
+    bottom: 10;
+}
+
+.centerbox {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    width: 65%;
+    padding: 0rem;
+}
+
+#books {
+list-style-type: none;
+font: italic 18px Lato;
+}
+
+div.tooltip {   
+    position: absolute;         
+    text-align: center;         
+    width: 150px;                    
+    height: 50px;                   
+    padding: 2px;               
+    font: 15px Lato;      
+    background: #e6fff7; 
+    border: 0px;        
+    border-radius: 8px;         
+    pointer-events: none;           
+}
+
+blockquote {
+    display: block;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 50px;
+    margin-right: 50px;
+    font: italic bold 20px Lato;
+}
+
+.title {
+  font: italic bold 30px Lato;   
+}
