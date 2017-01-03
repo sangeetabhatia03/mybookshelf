@@ -18,7 +18,10 @@ d3.csv("/mybookshelf/data/myshelf.csv", function(error, data){
 // Some placement calculations; we need 5 rectangles in each row.
   var g = svg.selectAll("g").data(data).enter();
   g.append("rect")
-    .attr("class","year")
+    .attr("class",function(d){
+      var cat = d.read=="0"? "unread" : "read";
+      return cat;
+    })
     .attr("rx", 10)
     .attr("ry", 10)
     .attr("x", function(d){return ((d.publication_year - 1900)%10)*80;})
@@ -27,7 +30,7 @@ d3.csv("/mybookshelf/data/myshelf.csv", function(error, data){
     .attr("height", 80)
     .attr("fill-opacity", 0.7)
     .style("fill", function(d){
-  	var fillcol = d.read=="0"? "red" : "green";
+  	var fillcol = d.read=="0"? "red" : "#99ff33";
   	return fillcol;
   })
     .on("mouseover", function(d) {
@@ -50,7 +53,7 @@ d3.csv("/mybookshelf/data/myshelf.csv", function(error, data){
     .text(function(d){return d.publication_year;})
     .attr("y",function(d){return  40 + Math.floor((d.publication_year - 1900)/10)*90;})
     .attr("x", function(d){return 20+((d.publication_year - 1900)%10)*80;})
-    .attr("fill","#fff")
+    .attr("fill","black")
     .style("stroke-width", 1)
     .style({"font-size":"18px"}); 
 
