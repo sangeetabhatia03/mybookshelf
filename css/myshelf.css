@@ -56,3 +56,7 @@ blockquote {
 .title {
   font: italic bold 30px Lato;   
 }
+.read:hover {
+    stroke: #66cc00;
+    stroke-width:5;
+}
