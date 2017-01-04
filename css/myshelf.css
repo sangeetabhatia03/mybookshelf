@@ -1,8 +1,17 @@
+html, 
+body {
+    height: 100%;
+}
+
 .container {
     display: table;
     height: 100%;
     width: 100%;
     border-spacing: 1px;
+/*    position: fixed;
+    overflow-y: scroll;
+    left: 0%;
+    top: 30%; */   
 }
 
 .sidebar {
@@ -10,9 +19,9 @@
     width: 35%;
     height: 80%;
     position: fixed;
-    overflow-y: scroll;
-    top: 10;
-    bottom: 10;
+    overflow: auto;
+    left: 0;
+    top: 35%;
 }
 
 .centerbox {
@@ -20,7 +29,12 @@
     text-align: center;
     vertical-align: middle;
     width: 65%;
-    padding: 0rem;
+    height: 80%;
+    overflow: auto;
+    position: fixed;
+    left: 35%;
+    top: 35%; 
+    /*padding: 0rem;*/
 }
 
 #books {
@@ -53,6 +67,7 @@ blockquote {
 .desc {
  font: 20px Lato;   
 }
+
 .title {
   font: italic bold 30px Lato;   
 }
