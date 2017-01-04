@@ -56,16 +56,5 @@ d3.csv("/mybookshelf/data/myshelf.csv", function(error, data){
     .attr("fill","black")
     .style("stroke-width", 1)
     .style({"font-size":"18px"}); 
-
-
- d3.select("#booklist")
-   .append("ul")
-   .attr("id", "books")
-   .selectAll("li")
-   .data(data)
-   .enter().filter(function(d){return d.name.length > 1})
-   .append("li")
-   .text(function(d) {return d.name;});
-
 });
 
