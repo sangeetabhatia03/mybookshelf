@@ -51,6 +51,7 @@ publication_year,name,author,read,genre,format
 1953,The Second World War: Alone,Winston Churchill,1,Modern History,audio
 1953,The Second World War: Milestones to Disaster,Winston Churchill,1,Modern History,audio
 1953,The Second World War: Triumph and Tragedy,Winston Churchill,1,Modern History,audio
+1953,Nine Stories,J.D. Salinger,1,Short Stories,physical
 1954,I Am Legend,Richard Matheson,0,Sci-Fi,audio
 1954,Seven Years in Tibet,Heinrich Harrer,0,Travel,audio
 1954,The Fellowship of the Ring,J.R.R. Tolkien,0,Fantasy,audio
@@ -109,6 +110,7 @@ publication_year,name,author,read,genre,format
 1995,The Diamond Age,Neal Stephenson,1,Sci-Fi,audio
 1996,Hogfather,Terry Pratchett,1,Comic Fantasy,audio
 1997,Angela's Ashes,Frank McCourt,1,Memoir,audio
+1999,'Tis,Frank McCourt,1,Memoir,physical
 1999,Black Hawk Down,Mark Bowden,0,Non-Fiction,audio
 1999,The Remorseful Day,Colin Dexter,1,Crime Fiction,audio
 2000,The Danish Girl,David Ebershoff,1,Fiction,audio
@@ -124,7 +126,7 @@ publication_year,name,author,read,genre,format
 2006,The Road,Cormac McCarthy,1,Fiction,audio
 2006,Tobruk,Peter FitzSimons,0,Modern History,audio
 2007,Death by Black Hole: And Other Cosmic Quandaries,Neil deGrasse Tyson,1,Science,audio
-2007,Red Moon Rising: Sputnik and the Hidden Rivals That Ignited the Space Age,Matthew Brzezinski,0,Non-Fiction,audio
+2007,Red Moon Rising: Sputnik and the Hidden Rivals That Ignited the Space Age,Matthew Brzezinski,1,Non-Fiction,audio
 2007,The History of the Ancient World: From the Earliest Accounts to the Fall of Rome,Susan Wise Bauer,1,History,audio
 2007,Time Traveler: A Scientist's Personal Mission to Make Time Travel a Reality,Ronald L. Mallett,0,Non-Fiction,audio
 2009,A Short Stay in Hell,Steven L. Peck,1,Fiction,audio
@@ -141,7 +143,7 @@ publication_year,name,author,read,genre,format
 2012,Drinking Water: A History,James Satzman,0,Microhistory,audio
 2012,Emperor Mollusk Versus the Sinister Brain,A. Lee Martinez,0,Sci-Fi,audio
 2012,This Book Is Full of Spiders: Seriously Dude Don't Touch It,David Wong,0,Fiction,audio
-2013,A Brief History of Misogyny: the World's Oldest Prejudice: Brief Histories,Jack Holland,0,Non-Fiction,audio
+2013,A Brief History of Misogyny: the World's Oldest Prejudice: Brief Histories,Jack Holland,1,Non-Fiction,audio
 2013,Fortunately the Milk,Neil Gaiman,1,Fiction,audio
 2013,Off to Be the Wizard,Scott Meyer,0,Comic Fantasy,audio
 2013,Rose Under Fire,Elizabeth E. Wein,NA,,
@@ -153,6 +155,7 @@ publication_year,name,author,read,genre,format
 2014,Starlight Detectives: How Astronomers Inventors and Eccentrics Discovered the Modern Universe,Alan Hirshfeld,0,Science,audio
 2014,The Meaning of Human Existence,Edward O. Wilson,0,Non-Fiction,audio
 2014,The Perfect Theory: A Century of Geniuses and the Battle over General Relativity,Pedro G. Ferreira,0,Science,audio
+2014,Myth = Mithya: Decoding Hindu Mythology,Devdutt Pattanaik,1,Mythology,physical
 2014,The Serpent of Venice: A Novel,Christopher Moore,0,Fiction,audio
 2015,Chasing the Scream: The First and Last Days of the War on Drugs,Johann Hari,0,Non-Fiction,audio
 2015,Data and Goliath: The Hidden Battles to Capture Your Data and Control Your World,Bruce Schneier,1,Non-Fiction,audio
