@@ -29,9 +29,9 @@ publication_year,name,author,read,genre,format
 1926,Introduction to Sally,Elizabeth von Arnim ,1,,physical
 1927,,,0,,
 1928,All Quiet on the Western Front,Erich Maria Remarque,1,War Memoir,audio
-1929,Expiation,Elizabeth von Arnim ,1,,physical
+1929,Expiation,Elizabeth von Arnim ,1,Fiction,physical
 1930,,,0,,
-1931,Father ,Elizabeth von Arnim ,1,,physical
+1931,Father ,Elizabeth von Arnim ,1,Fiction,physical
 1932,,,0,,
 1933,,,0,,
 1934,The Jasmine Farm,Elizabeth von Arnim ,1,,physical
@@ -41,8 +41,8 @@ publication_year,name,author,read,genre,format
 1938,,,0,,
 1939,The Big Sleep,Raymond Chandler,1,Crime,audio
 1940,Farewell My Lovely ,Raymond Chandler,1,Crime,audio
-1941,,,0,,
-1942,,,0,,
+1941,Blithe Spirit,Noël Coward,1,Fiction,audio
+1942,The Screwtape Letters,C. S. Lewis,1,Fiction,audio
 1943,,,0,,
 1944,The Lady in the Lake,Raymond Chandler,1,Crime,audio
 1945,,,0,,
@@ -65,7 +65,7 @@ publication_year,name,author,read,genre,format
 1961,The Prime of Miss Jean Brodie,Muriel Spark,1,Fiction,audio
 1961,Solaris, Stanisław Lem,1,Sci-Fi,audio
 1962,,,0,,
-1963,,,0,,
+1963,Orphans of the Sky,Robert A. Heinlein,1,Sci-Fi,audio
 1964,Zorba the Greek,Nikos Kazantzakis,1,Fiction,audio
 1965,The Game of X,Robert Sheckley,1,Sci-Fi,audio
 1966,Mindswap,Robert Sheckley,1,Sci-Fi,audio
