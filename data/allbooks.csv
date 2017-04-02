@@ -33,7 +33,7 @@ publication_year,name,author,read,genre,format
 1927,The Horror at Red Hook,H. P. Lovecraft,0,Fiction,audio
 1928,All Quiet on the Western Front,Erich Maria Remarque,1,War Memoir,audio
 1929,The Maltese Falcon,Dashiell Hammett,1,Crime Fiction,audio
-1931,The Good Earth,Pearl S. Buck,0,Fiction,audio
+1931,The Good Earth,Pearl S. Buck,1,Fiction,audio
 1937,Death on the Nile,Agatha Christie,1,Crime Fiction,audio
 1939,And Then There Were None,Agatha Christie,1,Crime Fiction,audio
 1939,The Big Sleep,Raymond Chandler,1,Crime Fiction,audio
@@ -47,7 +47,7 @@ publication_year,name,author,read,genre,format
 1950,The Great Escape,Paul Brickhill,1,War Memoir,audio
 1950,The Second World War: The Grand Alliance,Winston Churchill,1,Modern History,audio
 1951,Speak Memory,Vladimir Nabokov,0,Biography,audio
-1952,The Rolling Stones,Robert A. Heinlein,0,Sci-Fi,audio
+1952,The Rolling Stones,Robert A. Heinlein,1,Sci-Fi,audio
 1953,A Kiss Before Dying,Ira Levin,1,Crime Fiction,audio
 1953,The Second World War: Alone,Winston Churchill,1,Modern History,audio
 1953,The Second World War: Milestones to Disaster,Winston Churchill,1,Modern History,audio
