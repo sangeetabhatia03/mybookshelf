@@ -11,7 +11,7 @@ publication_year,name,author,read,genre,format
 1847,Wuthering Heights,Emily Brontë,1,Fiction,audio
 1856,Madame Bovary,Gustave Flaubert,1,Fiction,audio
 1858,Doctor Thorne,Anthony Trollope,0,Fiction,audio
-1859,A Tale of Two Cities,Charles Dickens,0,Fiction,audio
+1859,A Tale of Two Cities,Charles Dickens,1,Fiction,audio
 1861,Great Expectations,Charles Dickens,1,Fiction,audio
 1866,Crime and Punishment,Fyodor Dostoevsky,0,Fiction,audio
 1869,The Innocents Abroad,Mark Twain,0,Travel,audio
@@ -145,6 +145,7 @@ publication_year,name,author,read,genre,format
 2012,Drinking Water: A History,James Satzman,0,Microhistory,audio
 2012,Emperor Mollusk Versus the Sinister Brain,A. Lee Martinez,0,Sci-Fi,audio
 2012,This Book Is Full of Spiders: Seriously Dude Don't Touch It,David Wong,0,Fiction,audio
+2013, Joyland, Stephen King, 1, Crime, Kindle
 2013,A Brief History of Misogyny: the World's Oldest Prejudice: Brief Histories,Jack Holland,1,Non-Fiction,audio
 2013,Fortunately the Milk,Neil Gaiman,1,Fiction,audio
 2013,Off to Be the Wizard,Scott Meyer,0,Comic Fantasy,audio
