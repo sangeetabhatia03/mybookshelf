@@ -112,6 +112,7 @@ publication_year,name,author,read,genre,format
 1995,An Anthropologist on Mars: Seven Paradoxical Tales,Oliver Sacks,0,Science,audio
 1995,The Diamond Age,Neal Stephenson,1,Sci-Fi,audio
 1996,Hogfather,Terry Pratchett,1,Comic Fantasy,audio
+1997,Jingo,Terry Pratchett,1,Comic Fantasy,audio 
 1997,Angela's Ashes,Frank McCourt,1,Memoir,audio
 1999,'Tis,Frank McCourt,1,Memoir,physical
 1999,Black Hawk Down,Mark Bowden,0,Non-Fiction,audio
@@ -174,4 +175,5 @@ publication_year,name,author,read,genre,format
 2016,Algorithms to Live By: The Computer Science of Human Decisions,Brian Christian and Tom Griffiths,0,Non-Fiction,audio
 2016,Are We Smart Enough to Know How Smart Animals Are?,Frans de Waal,0,Non-Fiction,audio
 2016,One Wild Bird at a Time: Portraits of Individual Lives,Bernd Heinrich,1,Non-Fiction,audio
+2016,The Gene: An Intimate History,Siddhartha Mukherjee,1,Non-Fiction,physical
 NA,The Tales of Max Carrados,Ernest Bramah,1,Detective Fiction,audio
