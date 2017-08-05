@@ -14,7 +14,7 @@ function populateSidebar(data)
    })
 }
 
-function organiseByGenre(event)
+function organiseByField(event)
 {
   var svg = d3.select("#bookviz").append("svg")
 	  .attr("id","bookvizsvg")
@@ -22,7 +22,7 @@ function organiseByGenre(event)
 	  .attr("height", 960);
 
   var nested_data = d3.nest()
-				.key(function(d){return d.genre})
+				.key(function(d){return d.read})
 				.entries(event.data);
 
 }
@@ -30,7 +30,7 @@ function organiseByGenre(event)
 $(document).ready(function () {
 	d3.csv("/mybookshelf/data/allbooks.csv", function(error, data){	
    		populateSidebar(data)
-    	$( "#bygenre" ).click(data,organiseByGenre);
+    	$( "#bygenre" ).click(data,organiseByField);
 	});	
 });
 

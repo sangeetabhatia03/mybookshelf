@@ -11,7 +11,7 @@ publication_year,name,author,read,genre,format
 1847,Wuthering Heights,Emily Brontë,1,Fiction,audio
 1856,Madame Bovary,Gustave Flaubert,1,Fiction,audio
 1858,Doctor Thorne,Anthony Trollope,0,Fiction,audio
-1859,A Tale of Two Cities,Charles Dickens,1,Fiction,audio
+1859,A Tale of Two Cities,Charles Dickens,0,Fiction,audio
 1861,Great Expectations,Charles Dickens,1,Fiction,audio
 1866,Crime and Punishment,Fyodor Dostoevsky,0,Fiction,audio
 1869,The Innocents Abroad,Mark Twain,0,Travel,audio
@@ -57,7 +57,6 @@ publication_year,name,author,read,genre,format
 1954,Seven Years in Tibet,Heinrich Harrer,0,Travel,audio
 1954,The Fellowship of the Ring,J.R.R. Tolkien,0,Fantasy,audio
 1954,The Invasion of the Body Snatchers,Jack Finney,1,Sci-Fi,audio
-1955,Less than Angels,Barbara Pym,1,Fiction,physical
 1956,Double Star,Robert A. Heinlein,0,Sci-Fi,audio
 1956,The Incredible Shrinking Man,Richard Matheson,1,Sci-Fi,audio
 1958,Immortality Inc.,Robert Sheckley,1,Sci-Fi,audio
@@ -93,8 +92,6 @@ publication_year,name,author,read,genre,format
 1979,Flowers in the Attic,V. C. Andrews,0,Fiction,audio
 1980,A Confederacy of Dunces,John Kennedy Toole,1,Fiction,audio
 1981,With the Old Breed: At Peleliu and Okinawa,Eugene Sledge,1,War Memoir,audio
-1981,The Mismeasure of Man,Stephen J. Gould,Non-Fiction,physical
-1982,Monsignor Quixote,Graham Greene,Fiction,audio
 1984,Cold Sassy Tree,Olive Ann Burns,1,Fiction,audio
 1988,Sourcery,Terry Pratchett,1,Comic Fantasy,audio
 1989,A Prayer for Owen Meany,John Irving,0,Fiction,audio
@@ -103,7 +100,7 @@ publication_year,name,author,read,genre,format
 1990,Eric,Terry Pratchett,1,Comic Fantasy,audio
 1990,Good Omens,Neil Gaiman and Terry Pratchett,1,Comic Fantasy,audio
 1990,Moving Pictures,Terry Pratchett,1,Comic Fantasy,audio
-1990,The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,1,Modern History,audio
+1990,The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,0,Modern History,audio
 1991,Reaper Man,Terry Pratchett,1,Comic Fantasy,audio
 1991,There Are No Children Here: The Story of Two Boys Growing Up in the Other America,Alex Kotlowitz,1,Non-Fiction,audio
 1992,Lords and Ladies,Terry Pratchett,1,Comic Fantasy,audio
@@ -113,7 +110,6 @@ publication_year,name,author,read,genre,format
 1995,An Anthropologist on Mars: Seven Paradoxical Tales,Oliver Sacks,0,Science,audio
 1995,The Diamond Age,Neal Stephenson,1,Sci-Fi,audio
 1996,Hogfather,Terry Pratchett,1,Comic Fantasy,audio
-1997,Jingo,Terry Pratchett,1,Comic Fantasy,audio 
 1997,Angela's Ashes,Frank McCourt,1,Memoir,audio
 1999,'Tis,Frank McCourt,1,Memoir,physical
 1999,Black Hawk Down,Mark Bowden,0,Non-Fiction,audio
@@ -145,12 +141,10 @@ publication_year,name,author,read,genre,format
 2011,Puplhead:Essays,John Jeremiah Sullivan,1,Non-Fiction,audio
 2011,The Origins of Political Order: From Prehuman Times to the French Revolution,Francis Fukuyama,0,Non-Fiction,audio
 2011,What is it like to go to war,Karl Marlantes,1,Non-Fiction,audio
-2012,Fatal Invention,Dorothy Roberts,1,Non-Fiction,physical
 2012,Code Name Verity,Elizabeth E. Wein,0,Fiction,audio
 2012,Drinking Water: A History,James Satzman,0,Microhistory,audio
 2012,Emperor Mollusk Versus the Sinister Brain,A. Lee Martinez,0,Sci-Fi,audio
 2012,This Book Is Full of Spiders: Seriously Dude Don't Touch It,David Wong,0,Fiction,audio
-2013, Joyland, Stephen King, 1, Crime, Kindle
 2013,A Brief History of Misogyny: the World's Oldest Prejudice: Brief Histories,Jack Holland,1,Non-Fiction,audio
 2013,Fortunately the Milk,Neil Gaiman,1,Fiction,audio
 2013,Off to Be the Wizard,Scott Meyer,0,Comic Fantasy,audio
@@ -177,5 +171,4 @@ publication_year,name,author,read,genre,format
 2016,Algorithms to Live By: The Computer Science of Human Decisions,Brian Christian and Tom Griffiths,0,Non-Fiction,audio
 2016,Are We Smart Enough to Know How Smart Animals Are?,Frans de Waal,0,Non-Fiction,audio
 2016,One Wild Bird at a Time: Portraits of Individual Lives,Bernd Heinrich,1,Non-Fiction,audio
-2016,The Gene: An Intimate History,Siddhartha Mukherjee,1,Non-Fiction,physical
 NA,The Tales of Max Carrados,Ernest Bramah,1,Detective Fiction,audio
