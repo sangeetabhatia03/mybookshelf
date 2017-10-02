@@ -66,6 +66,7 @@ publication_year,name,author,read,genre,format
 1961,Black Like Me,John Howard Griffin,1,Non-Fiction,audio
 1961,Solaris, Stanisław Lem,1,Sci-Fi,audio
 1961,The Prime of Miss Jean Brodie,Muriel Spark,1,Fiction,audio
+1962,The Guns of August,Barbara W. Tuchman,1,Non-Fiction,audio
 1962,Something Wicked This Way Comes,Ray Bradbury,0,Fantasy,audio
 1962,The Fire Next Time,James Baldwin,0,Non-Fiction,audio
 1963,Orphans of the Sky,Robert A. Heinlein,1,Sci-Fi,audio
@@ -83,6 +84,7 @@ publication_year,name,author,read,genre,format
 1970,Being There,Jerzy Kosiński,1,Fiction,audio
 1972,Watership Down,Richard Adams,1,Fiction,audio
 1973,Child of God,Cormac McCarthy,0,Fiction,audio
+1974,Mortal Lessons: Notes on the Art of Surgery,Richard Selzer,1,Non-Fiction,physical
 1974,Flow My Tears the Policeman Said,Philip K. Dick,1,Sci-Fi,audio
 1974,The Medusa and the Snail,Lewis Thomas,1,Non-Fiction,audio
 1974,The Mote in God's Eye,Larry Niven and Jerry Pournelle,0,Sci-Fi,audio
@@ -115,6 +117,8 @@ publication_year,name,author,read,genre,format
 1996,Hogfather,Terry Pratchett,1,Comic Fantasy,audio
 1997,Jingo,Terry Pratchett,1,Comic Fantasy,audio 
 1997,Angela's Ashes,Frank McCourt,1,Memoir,audio
+1998,The First World War,John Keegan,1,Modern History,physical
+1998,Carpe Jugulum,Terry Pratchett,1,Comic Fantasy,physical
 1999,'Tis,Frank McCourt,1,Memoir,physical
 1999,Black Hawk Down,Mark Bowden,0,Non-Fiction,audio
 1999,The Remorseful Day,Colin Dexter,1,Crime Fiction,audio
@@ -122,12 +126,14 @@ publication_year,name,author,read,genre,format
 2001,American Gods,Neil Gaiman,1,Fantasy,audio
 2002,Abraham Lincoln: The Prairie Years and The War Years,Carl Sandburg,0,Non-Fiction,audio
 2003,How to Read Literature Like a Professor,Thomas C Foster,1,Non-Fiction,audio
+2003,Complications: A Surgeon's Notes on an Imperfect Science,Atul Gawande,1,Non-Fiction,physical
 2004,A Study in Emerald,Neil Gaiman,1,Fiction,audio
 2005,Agent to the Stars,John Scalzi,1,Sci-Fi,audio
 2005,Anansi Boys,Neil Gaiman,0,Fantasy,audio
 2005,Genghis Khan and the Making of the Modern World,Jack Weatherford,1,History,audio
 2005,Ideas: A History, Peter Watson,1,History,physical
 2005,No Country for Old Men,Cormac McCarthy,0,Fiction,audio
+2006,The Ghost Map,Steven Johnson,1,Non-Fiction,physical
 2006,The Android's Dream,John Scalzi,1,Sci-Fi,audio
 2006,The Road,Cormac McCarthy,1,Fiction,audio
 2006,Tobruk,Peter FitzSimons,0,Modern History,audio
@@ -178,4 +184,6 @@ publication_year,name,author,read,genre,format
 2016,Are We Smart Enough to Know How Smart Animals Are?,Frans de Waal,0,Non-Fiction,audio
 2016,One Wild Bird at a Time: Portraits of Individual Lives,Bernd Heinrich,1,Non-Fiction,audio
 2016,The Gene: An Intimate History,Siddhartha Mukherjee,1,Non-Fiction,physical
+2016,Spaceman,Mike Massimino,1,Non-Fiction,audio
+2016,Books for Living,Will Schwalbe,1,Non-Fiction,audio
 NA,The Tales of Max Carrados,Ernest Bramah,1,Detective Fiction,audio
