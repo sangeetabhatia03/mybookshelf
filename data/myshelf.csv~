@@ -3,7 +3,7 @@ publication_year,name,author,read,genre,format
 1901,,,0,,
 1902,,,0,,
 1903,,,0,,
-1904,The Napoleon of Notting Hill,G. K. Chesterton,1,Fiction,audio
+1904,,,0,,
 1905,Where Angels Fear to Tread,E.M. Forster,1,,audio
 1906,,,0,,
 1907,,,0,,
@@ -18,7 +18,7 @@ publication_year,name,author,read,genre,format
 1915,,,0,,
 1916,,,0,,
 1917,,,0,,
-1918,The Return of the Soldier,Rebecca West,1,War Fiction,physical
+1918,,,0,,
 1919,The Secret Battle,A. P. Herbert,1,War Fiction,physical
 1920,,,0,,
 1921,,,0,,
@@ -26,7 +26,7 @@ publication_year,name,author,read,genre,format
 1923,,,0,,
 1924,,,0,,
 1925,,,0,,
-1926,Introduction to Sally,Elizabeth von Arnim,1,Fiction,physical
+1926,Introduction to Sally,Elizabeth von Arnim ,1,,physical
 1927,,,0,,
 1928,All Quiet on the Western Front,Erich Maria Remarque,1,War Memoir,audio
 1929,Expiation,Elizabeth von Arnim ,1,Fiction,physical
@@ -34,7 +34,7 @@ publication_year,name,author,read,genre,format
 1931,Father,Elizabeth von Arnim,1,Fiction,physical
 1932,,,0,,
 1933,,,0,,
-1934,The Jasmine Farm,Elizabeth von Arnim ,1,Fiction,physical
+1934,The Jasmine Farm,Elizabeth von Arnim ,1,,physical
 1935,,,0,,
 1936,,,0,,
 1937,,,0,,
@@ -64,7 +64,7 @@ publication_year,name,author,read,genre,format
 1960,Night,Elie Wiesel,1,War Memoir,audio 
 1961,The Prime of Miss Jean Brodie,Muriel Spark,1,Fiction,audio
 1961,Solaris, Stanisław Lem,1,Sci-Fi,audio
-1962,The Guns of August,Barbara W. Tuchman,1,Non-Fiction,audio
+1962,,,0,,
 1963,Orphans of the Sky,Robert A. Heinlein,1,Sci-Fi,audio
 1964,Zorba the Greek,Nikos Kazantzakis,1,Fiction,audio
 1965,The Game of X,Robert Sheckley,1,Sci-Fi,audio
