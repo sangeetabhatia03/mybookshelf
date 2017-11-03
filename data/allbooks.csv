@@ -31,12 +31,13 @@ publication_year,name,author,read,genre,format
 1918,The Return of the Soldier,Rebecca West,1,Fiction,physical
 1919,The Secret Battle,A. P. Herbert,1,War Fiction,physical
 1925,Arrowsmith,Sinclair Lewis,0,Fiction,audio
-1925,Carry On Jeeves,P.G. Wodehouse,0,Fiction,audio
+1925,Carry On Jeeves,P.G. Wodehouse,1,Fiction,audio
 1927,The Horror at Red Hook,H. P. Lovecraft,0,Fiction,audio
 1928,All Quiet on the Western Front,Erich Maria Remarque,1,War Memoir,audio
 1929,The Maltese Falcon,Dashiell Hammett,1,Crime Fiction,audio
 1931,The Good Earth,Pearl S. Buck,1,Fiction,audio
 1937,Death on the Nile,Agatha Christie,1,Crime Fiction,audio
+1938,The Code of the Woosters,P.G.Wodehouse,1,Fiction,physical
 1939,And Then There Were None,Agatha Christie,1,Crime Fiction,audio
 1939,The Big Sleep,Raymond Chandler,1,Crime Fiction,audio
 1940,Farewell My Lovely,Raymond Chandler,1,Crime Fiction,audio
@@ -118,12 +119,14 @@ publication_year,name,author,read,genre,format
 1995,An Anthropologist on Mars: Seven Paradoxical Tales,Oliver Sacks,0,Science,audio
 1995,The Diamond Age,Neal Stephenson,1,Sci-Fi,audio
 1996,Hogfather,Terry Pratchett,1,Comic Fantasy,audio
+1996,Feet of Clay,Terry Pratchett,1,Comic Fantasy,physical
 1997,Jingo,Terry Pratchett,1,Comic Fantasy,audio 
 1997,Angela's Ashes,Frank McCourt,1,Memoir,audio
 1998,The First World War,John Keegan,1,Modern History,physical
 1998,Carpe Jugulum,Terry Pratchett,1,Comic Fantasy,physical
 1999,'Tis,Frank McCourt,1,Memoir,physical
 1999,Black Hawk Down,Mark Bowden,0,Non-Fiction,audio
+1999,The Fifth Elephant,Terry Pratchett,1,Comic Fantasy,physical
 1999,The Remorseful Day,Colin Dexter,1,Crime Fiction,audio
 2000,The Danish Girl,David Ebershoff,1,Fiction,audio
 2001,American Gods,Neil Gaiman,1,Fantasy,audio
