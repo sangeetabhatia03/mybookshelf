@@ -37,6 +37,7 @@ publication_year,name,author,read,genre,format
 1929,The Maltese Falcon,Dashiell Hammett,1,Crime Fiction,audio
 1931,The Good Earth,Pearl S. Buck,1,Fiction,audio
 1935,Blandings Castle and Elsewhere,P. G. Wodehouse,1,Fiction,physical
+1936,War with the Newts,Karel Čapek,1,Sci-Fi,physical
 1937,Death on the Nile,Agatha Christie,1,Crime Fiction,audio
 1938,The Code of the Woosters,P.G.Wodehouse,1,Fiction,physical
 1939,And Then There Were None,Agatha Christie,1,Crime Fiction,audio
@@ -64,6 +65,7 @@ publication_year,name,author,read,genre,format
 1955,Less than Angels,Barbara Pym,1,Fiction,physical
 1956,Double Star,Robert A. Heinlein,0,Sci-Fi,audio
 1956,The Incredible Shrinking Man,Richard Matheson,1,Sci-Fi,audio
+1957,The Zimmermann telegram,Barbara W. Tuchman,1,History,audio
 1958,Immortality Inc.,Robert Sheckley,1,Sci-Fi,audio
 1958,Stride Toward Freedom: The Montgomery Story,Martin Luther King Jr.,0,Non-Fiction,audio
 1960,Night,Elie Wiesel,1,War Memoir,audio
