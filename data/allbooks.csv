@@ -144,6 +144,7 @@ publication_year,name,author,read,genre,format
 2005,Genghis Khan and the Making of the Modern World,Jack Weatherford,1,History,audio
 2005,Ideas: A History, Peter Watson,1,History,physical
 2005,No Country for Old Men,Cormac McCarthy,0,Fiction,audio
+2005,The Library at Night,Alberto Manguel,1,Non-Fiction,physical
 2006,The Ghost Map,Steven Johnson,1,Non-Fiction,physical
 2006,The Android's Dream,John Scalzi,1,Sci-Fi,audio
 2006,The Road,Cormac McCarthy,1,Fiction,audio
@@ -200,4 +201,5 @@ publication_year,name,author,read,genre,format
 2016,Spaceman,Mike Massimino,1,Non-Fiction,audio
 2016,Books for Living,Will Schwalbe,1,Non-Fiction,audio
 2016,But You Did Not Come Back,Marceline Loridan Ivens,1,Non-Fiction,physical
+2016,The Last Days of Stalin,Joshua Rubenstein,1,Non-Fiction,physical
 NA,The Tales of Max Carrados,Ernest Bramah,1,Detective Fiction,audio
